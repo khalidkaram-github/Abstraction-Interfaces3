@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction-Interfaces3", "Abstraction-Interfaces3.csproj", "{97A1A0E0-C1D6-42E8-AFC5-B1DDF089196E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97A1A0E0-C1D6-42E8-AFC5-B1DDF089196E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A1A0E0-C1D6-42E8-AFC5-B1DDF089196E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A1A0E0-C1D6-42E8-AFC5-B1DDF089196E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A1A0E0-C1D6-42E8-AFC5-B1DDF089196E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69E2B289-FEAF-4EDF-921D-2C2FFEE0EE56}
+	EndGlobalSection
+EndGlobal
